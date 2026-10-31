@@ -1,5 +1,5 @@
 <p align="center">
-<img src="img/IMG_5061.png" alt="Profile Photo" height="200">
+<img src="img/profile-devoxx.png" alt="Théophane speaking at Devoxx France" height="200">
 </p>
 
 <p align="center">
